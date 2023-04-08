@@ -3,7 +3,7 @@ for (( ; ; ))
 
 do
 
-echo "Hello!, Bash" >> hello.txt
+echo `date` >> hello.txt
 
 sleep 1
 
