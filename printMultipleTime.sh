@@ -5,7 +5,7 @@ do
 
 echo `date` >> hello.txt
 
-sleep 1
+sleep 0.5
 
 done
 # this is bash multi line comment
