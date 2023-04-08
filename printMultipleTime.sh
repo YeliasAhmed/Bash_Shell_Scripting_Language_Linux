@@ -3,9 +3,9 @@ for (( ; ; ))
 
 do
 
-echo "yelias ahmed" >> hello.txt
+echo "Hello!, Bash" >> hello.txt
 
-sleep 2
+sleep 1
 
 done
 # this is bash multi line comment
